@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK_Bot",
   "bot-account": {
     "username": "server_conection",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
     "server": {
     "ip": "eudoria-craft0J2gU.aternos.me",
     "port": 16989,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
